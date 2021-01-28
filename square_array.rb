@@ -3,3 +3,6 @@ def square_array(numbers)
   numbers.each {|num| new_square_array << num ** 2}
   new_square_array
   end
+
+def square_array(numbers)
+end
